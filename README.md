@@ -1,2 +1,2 @@
 # sheich.github.io
-wwws
+root
