@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2022-04-21T17:17:23.581Z</time>
+	</metadata>
+	<trk>
+		<name>пиль-юрас</name>
+		<trkseg>
+			<trkpt lat="63.311835" lon="44.246407"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.322087" lon="44.211044"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.349357" lon="44.203835"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.351513" lon="44.197826"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.384447" lon="44.184265"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.389446" lon="44.187012"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.466311" lon="44.161434"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.462476" lon="44.108391"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.482563" lon="44.033203"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.483483" lon="44.003334"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.497122" lon="43.998528"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.502330" lon="43.977585"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.552987" lon="43.958702"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.561395" lon="43.964882"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.624914" lon="43.989944"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.666522" lon="43.977242"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.686009" lon="43.994408"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.720687" lon="43.976555"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.749060" lon="44.008741"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.751680" lon="44.014921"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

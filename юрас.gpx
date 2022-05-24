@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2022-04-21T17:17:33.992Z</time>
+	</metadata>
+	<trk>
+		<name>юрас</name>
+		<trkseg>
+			<trkpt lat="63.352899" lon="44.274516"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.354073" lon="44.277349"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.355767" lon="44.277091"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.359443" lon="44.273100"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.361598" lon="44.273529"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.363541" lon="44.271898"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.365196" lon="44.272370"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.366619" lon="44.271383"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.371274" lon="44.276190"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.373236" lon="44.275160"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.379429" lon="44.280267"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.383217" lon="44.286275"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.386235" lon="44.286447"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.389888" lon="44.283271"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.393482" lon="44.283485"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.397364" lon="44.281254"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.399190" lon="44.285760"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.402111" lon="44.287713"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.406645" lon="44.290438"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.407846" lon="44.292433"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.412475" lon="44.294643"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.413935" lon="44.295416"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.416211" lon="44.295266"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.419494" lon="44.292347"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.424679" lon="44.286489"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.427347" lon="44.288678"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.439554" lon="44.282928"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

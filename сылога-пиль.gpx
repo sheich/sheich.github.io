@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2022-04-21T17:18:52.870Z</time>
+	</metadata>
+	<trk>
+		<name>сылога-пиль</name>
+		<trkseg>
+			<trkpt lat="63.752439" lon="44.012775"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.751566" lon="44.006424"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.752591" lon="43.995094"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.751414" lon="43.991404"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.757715" lon="43.968744"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.757639" lon="43.944111"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.762268" lon="43.935184"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.765228" lon="43.934069"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.767353" lon="43.936815"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.774105" lon="43.932009"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.775053" lon="43.924026"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.778049" lon="43.918276"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.780097" lon="43.881197"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.774901" lon="43.860254"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.778277" lon="43.841200"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.775356" lon="43.827810"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.776722" lon="43.821373"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.780893" lon="43.772020"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.779794" lon="43.759146"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.777291" lon="43.750305"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.778732" lon="43.735542"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.785861" lon="43.724298"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.793632" lon="43.687048"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.796058" lon="43.684301"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.797649" lon="43.684988"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.803940" lon="43.679581"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.809357" lon="43.671169"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.811782" lon="43.661299"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.814471" lon="43.657522"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.815986" lon="43.653831"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.821477" lon="43.661900"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

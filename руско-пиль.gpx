@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2022-04-21T17:17:47.793Z</time>
+	</metadata>
+	<trk>
+		<name>руско-пиль</name>
+		<trkseg>
+			<trkpt lat="63.900392" lon="44.060326"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.892311" lon="44.055519"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.884151" lon="44.062901"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.861851" lon="44.053631"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.858145" lon="44.101396"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.841198" lon="44.119034"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.838701" lon="44.119205"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.822954" lon="44.104099"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.813410" lon="44.100494"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.810910" lon="44.090366"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.804546" lon="44.089336"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.800605" lon="44.082127"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.799847" lon="44.069939"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.787870" lon="44.065304"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.775963" lon="44.080753"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.758967" lon="44.077320"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.752591" lon="44.077148"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

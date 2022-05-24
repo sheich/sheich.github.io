@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2022-04-21T17:17:40.097Z</time>
+	</metadata>
+	<trk>
+		<name>сход-1</name>
+		<trkseg>
+			<trkpt lat="63.432089" lon="44.174223"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.431974" lon="44.180145"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.436887" lon="44.186583"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.440341" lon="44.216108"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.442759" lon="44.218855"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.445905" lon="44.246578"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.447939" lon="44.265761"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="63.444639" lon="44.273958"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>
