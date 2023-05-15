@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2023-04-26T21:18:24.166Z</time>
+	</metadata>
+	<wpt lat="62.270559" lon="43.959088">
+		<name>ночь1</name>
+	</wpt>
+	<wpt lat="62.150821" lon="43.989129">
+		<name>ночь2-1</name>
+	</wpt>
+	<wpt lat="62.156073" lon="44.019728">
+		<name>ночь2-2</name>
+	</wpt>
+	<wpt lat="62.044612" lon="44.197612">
+		<name>ночь3-1</name>
+	</wpt>
+	<wpt lat="62.112616" lon="44.136479">
+		<name>становое</name>
+	</wpt>
+	<wpt lat="62.053262" lon="44.171498">
+		<name>брод</name>
+	</wpt>
+	<wpt lat="62.063336" lon="44.147229">
+		<name>юмиж</name>
+	</wpt>
+	<wpt lat="62.043083" lon="44.291768">
+		<name>ночь3-2</name>
+	</wpt>
+	<wpt lat="62.035819" lon="44.305115">
+		<name>руч</name>
+	</wpt>
+	<wpt lat="62.027527" lon="44.331894">
+		<name>оз</name>
+	</wpt>
+	<wpt lat="62.025514" lon="44.344425">
+		<name>оз</name>
+	</wpt>
+	<wpt lat="62.019877" lon="44.355240">
+		<name>оз</name>
+	</wpt>
+	<wpt lat="62.018468" lon="44.359274">
+		<name>оз</name>
+	</wpt>
+	<wpt lat="62.016172" lon="44.378242">
+		<name>оз</name>
+	</wpt>
+	<wpt lat="62.014239" lon="44.382277">
+		<name>оз</name>
+	</wpt>
+	<wpt lat="62.014682" lon="44.397039">
+		<name>оз</name>
+	</wpt>
+	<wpt lat="62.020441" lon="44.404678">
+		<name>изба</name>
+	</wpt>
+	<wpt lat="62.014320" lon="44.398413">
+		<name>изба</name>
+	</wpt>
+	<wpt lat="62.034894" lon="44.415836">
+		<name>мост</name>
+	</wpt>
+	<wpt lat="62.008338" lon="44.391203">
+		<name>оз</name>
+	</wpt>
+	<wpt lat="62.001549" lon="44.411416">
+		<name>оз</name>
+	</wpt>
+	<wpt lat="61.986960" lon="44.462185">
+		<name>руч</name>
+	</wpt>
+	<wpt lat="61.959454" lon="44.463129">
+		<name>руч</name>
+	</wpt>
+	<wpt lat="61.975590" lon="44.514112">
+		<name>руч</name>
+	</wpt>
+	<wpt lat="61.956347" lon="44.509821">
+		<name>мост</name>
+	</wpt>
+	<wpt lat="61.987081" lon="44.547501">
+		<name>мост</name>
+	</wpt>
+	<wpt lat="61.990507" lon="44.556341">
+		<name>мост</name>
+	</wpt>
+	<wpt lat="61.995102" lon="44.570160">
+		<name>мост</name>
+	</wpt>
+	<wpt lat="61.994175" lon="44.555740">
+		<name>сар</name>
+	</wpt>
+	<wpt lat="62.015488" lon="44.614449">
+		<name>поперечка</name>
+	</wpt>
+	<wpt lat="62.034813" lon="44.220657">
+		<name>мост</name>
+	</wpt>
+	<wpt lat="62.047006" lon="44.197140">
+		<name>ваймас</name>
+	</wpt>
+	<wpt lat="62.099184" lon="44.167185">
+		<name>руч</name>
+	</wpt>
+	<wpt lat="62.102999" lon="44.162207">
+		<name>руч</name>
+	</wpt>
+	<wpt lat="62.103200" lon="44.159031">
+		<name>оз</name>
+	</wpt>
+	<wpt lat="62.104405" lon="44.167013">
+		<name>оз</name>
+	</wpt>
+	<wpt lat="62.114282" lon="44.117575">
+		<name>изба</name>
+	</wpt>
+	<wpt lat="62.131258" lon="44.116201">
+		<name>оз</name>
+	</wpt>
+	<wpt lat="62.156363" lon="44.070196">
+		<name>нюгмас</name>
+	</wpt>
+	<wpt lat="62.158969" lon="44.013119">
+		<name>мост</name>
+	</wpt>
+	<wpt lat="62.154279" lon="44.021273">
+		<name>оз</name>
+	</wpt>
+	<wpt lat="62.152555" lon="43.987026">
+		<name>оз</name>
+	</wpt>
+	<wpt lat="62.152956" lon="43.967714">
+		<name>оз</name>
+	</wpt>
+	<wpt lat="62.152956" lon="43.964796">
+		<name>оз</name>
+	</wpt>
+	<wpt lat="62.150309" lon="43.956470">
+		<name>оз</name>
+	</wpt>
+	<wpt lat="62.150510" lon="43.948660">
+		<name>оз</name>
+	</wpt>
+	<wpt lat="62.147262" lon="43.937502">
+		<name>оз</name>
+	</wpt>
+	<wpt lat="62.147703" lon="43.930120">
+		<name>руч</name>
+	</wpt>
+	<wpt lat="62.172795" lon="43.917332">
+		<name>брод</name>
+	</wpt>
+	<wpt lat="62.185413" lon="43.932352">
+		<name>брод</name>
+	</wpt>
+	<wpt lat="62.204511" lon="43.971405">
+		<name>мост</name>
+	</wpt>
+	<wpt lat="62.223396" lon="43.988829">
+		<name>изба</name>
+	</wpt>
+	<wpt lat="62.223156" lon="44.014835">
+		<name>оз</name>
+	</wpt>
+	<wpt lat="62.224756" lon="43.997240">
+		<name>мост</name>
+	</wpt>
+	<wpt lat="62.245308" lon="44.018869">
+		<name>мост</name>
+	</wpt>
+	<wpt lat="62.247306" lon="44.009342">
+		<name>мост</name>
+	</wpt>
+	<wpt lat="62.255259" lon="43.993206">
+		<name>мост</name>
+	</wpt>
+	<wpt lat="62.277068" lon="43.933983">
+		<name>мост</name>
+	</wpt>
+	<wpt lat="62.278186" lon="43.916731">
+		<name>мост</name>
+	</wpt>
+	<wpt lat="62.299818" lon="43.890810">
+		<name>мост</name>
+	</wpt>
+	<wpt lat="62.328730" lon="43.889437">
+		<name>мост</name>
+	</wpt>
+</gpx>
