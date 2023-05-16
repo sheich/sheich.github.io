@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2023-04-26T21:18:36.526Z</time>
+	</metadata>
+	<trk>
+		<name>болото</name>
+		<trkseg>
+			<trkpt lat="61.966111" lon="44.459696"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="61.968572" lon="44.474072"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="61.971758" lon="44.485273"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="61.973593" lon="44.498405"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="61.975368" lon="44.509392"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="61.975207" lon="44.517331"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="61.974884" lon="44.526343"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="61.973997" lon="44.532437"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="61.974602" lon="44.534669"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

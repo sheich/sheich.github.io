@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2023-04-26T21:18:33.347Z</time>
+	</metadata>
+	<trk>
+		<name>соезерск</name>
+		<trkseg>
+			<trkpt lat="61.949547" lon="44.483685"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="61.951222" lon="44.489393"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="61.954935" lon="44.502525"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="61.956307" lon="44.513168"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="61.959313" lon="44.524498"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="61.963348" lon="44.527802"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="61.964215" lon="44.529347"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="61.967543" lon="44.527674"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="61.983715" lon="44.544282"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="61.986295" lon="44.545827"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="61.988431" lon="44.554195"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="61.993026" lon="44.561019"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="61.993651" lon="44.568186"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="61.996855" lon="44.575310"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="61.997157" lon="44.574763"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

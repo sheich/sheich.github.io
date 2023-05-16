@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2023-04-26T21:18:39.720Z</time>
+	</metadata>
+	<trk>
+		<name>поперечка</name>
+		<trkseg>
+			<trkpt lat="61.997238" lon="44.576340"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="62.005780" lon="44.579773"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="62.010936" lon="44.587584"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="62.014159" lon="44.608183"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="62.016011" lon="44.611530"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="62.015286" lon="44.613762"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>
